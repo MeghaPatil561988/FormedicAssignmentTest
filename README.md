@@ -39,27 +39,28 @@
      
 ## 2 Scope:
 ## Task 1- Login:
-###I have successfully executed LoginTC with given user name and password credintials.I have used Parameterization to access login credentials by using @DataProvider annotation.
+*I have successfully executed LoginTC with given user name and password credintials.I have used Parameterization to access login credentials by using @DataProvider annotation.
 
 ## Task 2- Repository:
-###I have successfully executed LoginPageTc navigate repository to studies,
-###successfully clicked on TechStudy menu bar 
-###validated tech test study view.
-###successfully clicked on TechStudy menu bar
-###successfully validated ‘Data acquisition’ asset group view.
-###successfully clicked on view ‘Forms’.
-###successfully clicked on ‘Medical History’icon and view the ‘Medical History’ form.
-###successfully clicked on edit form by adding a ‘Description’text to the textbox.
-###successfully clicked on validate and update icon and check successfully saved or not.
-###checked user update has been preserved on the property panel,and on the main form view or not.
-###checked Over the mouse on user icon(testteamtechtest) on the bottom left hand side of the menu bar.
-###checked Logout button is clicked successfuly or not.  
-###Some of the elements on page didn't clicking through click() method, so i have used for clicking elements through Action class.
-###checked all test cases has successfully validated or not,
+
+* I have successfully executed LoginPageTc navigate repository to studies,
+* successfully clicked on TechStudy menu bar 
+* validated tech test study view.
+* successfully clicked on TechStudy menu bar
+* successfully validated ‘Data acquisition’ asset group view.
+* successfully clicked on view ‘Forms’.
+* successfully clicked on ‘Medical History’icon and view the ‘Medical History’ form.
+* successfully clicked on edit form by adding a ‘Description’text to the textbox.
+* successfully clicked on validate and update icon and check successfully saved or not.
+* checked user update has been preserved on the property panel,and on the main form view or not.
+* checked Over the mouse on user icon(testteamtechtest) on the bottom left hand side of the menu bar.
+* checked Logout button is clicked successfuly or not.  
+* Some of the elements on page didn't clicking through click() method, so i have used for clicking elements through Action class.
+* checked all test cases has successfully validated or not,
 
 ## Task 3 - Github
-### I have push my FormedixAssignment Project from git to github with Document.
-### I have created README.txt file for documentation purpose.
+* I have push my FormedixAssignment Project from git to github with Document.
+* I have created README.txt file for documentation purpose.
    
 
 
