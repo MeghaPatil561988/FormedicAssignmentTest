@@ -1,7 +1,7 @@
 # FormedicAssignmentTest
-# clinical trial automation software Test(FormedixAssignment)
+# Clinical trial automation software Test(FormedixAssignment)
 
-##About Formedix :
+## About Formedix :
    Formedix is a leading supplier of clinical trial automation software and services based on CDISC (Clinical Data Interchange Standards Consortium). standards.
 
 ## End to End Assessment Test(FormedixAssignment)
@@ -39,7 +39,7 @@
      
 ## 2 Scope:
 ## Task 1- Login:
-*I have successfully executed LoginTC with given user name and password credintials.I have used Parameterization to access login credentials by using @DataProvider annotation.
+* I have successfully executed LoginTC with given user name and password credintials.I have used Parameterization to access login credentials by using @DataProvider annotation.
 
 ## Task 2- Repository:
 
